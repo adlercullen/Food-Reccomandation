@@ -1,0 +1,20 @@
+span{
+  border:2px solid white;
+  padding:0px 2px 0px 2px;
+  margin:2px 2px 2px 2px;
+
+}
+.select-output{
+  /* background-color:pink; */
+  /* display:flex;
+  flex-direction:row; */
+  
+  
+}
+h3{
+  display:inline-block;
+}
+
+.menu{
+  margin-right:5px;
+}

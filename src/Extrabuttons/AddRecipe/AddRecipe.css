@@ -1,0 +1,29 @@
+.AddRecipe-background{
+  color:white;
+  height:91.4vh;
+  background-image:url("AddRecipe.jpg");
+  background-position:center;
+  background-size:cover;
+}
+
+#form{
+   display:flex;
+  flex-direction:column;
+  /* background-color:pink; */
+  height:700px;
+  width:400px;
+  justify-content:space-around;
+  align-items:center;
+}
+
+input,textarea,button{
+  /* display:inline-block; */
+  width:150px;
+}
+input,textarea{
+  display:block;
+}
+label{
+  /* font-family:xx-large; */
+  font-size:20px;
+}

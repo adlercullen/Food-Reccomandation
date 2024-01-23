@@ -1,0 +1,14 @@
+.background{
+  /* background-color:green; */
+  height:91.3vh;
+  background-image:url("background.jpg");
+  background-position:center;
+  background-size:cover;
+  border:0px solid white
+}
+
+.recipe{
+  color:white;
+  font-weight:800;
+  font-family:alias;
+}
